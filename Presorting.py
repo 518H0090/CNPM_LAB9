@@ -14,3 +14,4 @@ def PresortMode(Arr):
     return modelvalue
 
 print(PresortMode([200,2,3,4,5,6,7,8,5,5,7,2,42,4,12,2,2,2,2,2])) 
+print('hihi')
